@@ -1,0 +1,50 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.navbar {
+    background-color: #342ac5d5;
+}
+
+.titulo {
+    font-family: 'Press Start 2P', cursivo;
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: #fff;
+    color:  #342ac5d5;
+}
+
+#cabecalho .nav .nav-link, 
+.navbar-brand,
+.navbar-brand:hover, 
+.nav-produto .nav-link.active:hover {
+    color: #fff;
+}
+
+.nav-produto .nav-link.active,
+#fale-conosco button {
+    background-color:#342ac5d5;
+    color: #fff;
+}
+
+.navbar-toggler {
+    background-color: #ffeae6ea;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+}
+
+.text-colored {
+    color:  #342ac5d5;
+}
+
+#produto {
+    background-color: #d0cdfcd5;
+}
